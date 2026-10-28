@@ -1,2 +1,2 @@
-# recibe-
+# recipe
 different cameroonian meals recipe
